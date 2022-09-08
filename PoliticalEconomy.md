@@ -5,9 +5,9 @@ Pages 1
 
 Clone this wiki locally
 
-Political Economy Papers - a sort of mostly chronological cheat sheet of texts from Marxism to Associationalism
+Political Economy Papers
 
-1/ Eric Hobsbawn, The Forward March of Labour Halted, Marxism Today, 1978 EHobsFMLHalt.pdf
+1/ Eric Hobsbawn, The Forward March of Labour Halted, Marxism Today, 1978 EHobsFMLHalt.pdf https://github.com/jimstutt/Political-Economy/files/9274426/EHobsFMLHalt.pdf
 
 2/ Stuart Hall, The Great Moving Right Show, Marxism Today, 1979 Hall1979.pdf
 
